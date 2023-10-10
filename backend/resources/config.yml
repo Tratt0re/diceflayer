@@ -1,0 +1,7 @@
+telegram:
+  bot:
+    token: !ENV ${TELEGRAM_BOT_TOKEN}
+
+logging:
+  format: !ENV ${LOGGING_FORMAT}
+  level: !ENV ${LOGGING_LEVEL}

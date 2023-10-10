@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="15px" viewBox="0 0 15 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>d4-test</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-130.000000, -138.000000)">
+            <g id="d4-test" transform="translate(131.000000, 139.814815)">
+                <path d="M12.154537,11.950463 L0.0548148148,10.8699074 L6.90972222,0.0865740741 L12.7858333,8.10851852 L12.154537,11.950463 Z M6.88712963,0.0865740741 L12.1262037,11.9228704" id="Shape" fill="#FD4D4D" fill-rule="nonzero"></path>
+                <polygon id="Path" fill="#E63232" fill-rule="nonzero" points="7.09342593 0.415740741 12.1534259 11.7394444 12.7811111 8.13111111"></polygon>
+                <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="6.95898148 0.184444444 0.0992592593 10.837963 12.1652778 11.8886111 0.740462963 10.565"></polygon>
+                <path d="M12.154537,11.950463 L0.0548148148,10.8699074 L6.90972222,0.0865740741 L12.7858333,8.10851852 L12.154537,11.950463 Z M6.88712963,0.0865740741 L12.1262037,11.9228704" id="Shape" stroke="#000002" stroke-width="0.5" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

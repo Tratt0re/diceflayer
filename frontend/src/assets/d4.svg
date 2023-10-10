@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="152px" height="150px" viewBox="0 0 152 150" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>d4</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="current" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-958.000000, -289.000000)">
+            <g id="d4" transform="translate(958.521739, 289.000000)">
+                <rect id="base" fill-opacity="0" fill="#FFFFFF" x="0.47826087" y="0" width="150" height="150"></rect>
+                <path d="M82.9403845,26.2339742 L141.585462,123.975769 C144.216674,128.361123 142.794661,134.049173 138.409308,136.680384 C136.970161,137.543872 135.323396,138 133.645077,138 L16.3549229,138 C11.2407661,138 7.09492291,133.854157 7.09492291,128.74 C7.09492291,127.061681 7.55105045,125.414916 8.41453842,123.975769 L67.0596155,26.2339742 C69.6908275,21.8486209 75.3788774,20.4266084 79.7642307,23.0578204 C81.067572,23.8398252 82.1583797,24.9306328 82.9403845,26.2339742 Z" id="Triangle" fill="current"></path>
+            </g>
+        </g>
+    </g>
+</svg>

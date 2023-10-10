@@ -1,0 +1,142 @@
+/*
+This .css file overwirte some bootstrap rules in order to setup telegram theme colors
+*/
+
+
+body {
+  background-color: var(--tg-theme-bg-color, #fff);
+  color: var(--tg-theme-text-color, #222);
+}
+body.gray {
+  background-color: var(--tg-theme-secondary-bg-color, #efefef);
+}
+a {
+  color: var(--tg-theme-link-color, #2678b6);
+}
+p {
+  color: var(--tg-theme-text-color, #222);
+  padding: 0px;
+  margin: 0px;
+}
+p.hint_text {
+  color: var(--tg-theme-hint-color, #ccc);
+  text-align: center;
+}
+
+.sticky-header {
+  margin: 8px 8px 8px 8px;
+  border-radius: 16px;
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  background-color: var(--tg-theme-secondary-bg-color, #efefef);
+  z-index: 1;
+}
+
+.container.dice_container {
+  background-color: var(--tg-theme-secondary-bg-color, #efefef);
+  border-radius: 16px;
+}
+
+.dice_icon_container {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.dice_number_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: var(--tg-theme-secondary-bg-color, #efefef);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.dice_number_text {
+  color: var(--tg-theme-secondary-bg-color, #efefef);
+  text-align: center;
+  font-weight: bolder;
+  font-size: 135%;
+}
+
+.dice_icon {
+  background: #000;
+}
+
+.badged_dice_container {
+  position: relative;
+  text-align: center;
+}
+
+.badge.dice_badge {
+  border-radius: 100px;
+  position: absolute;
+  top: 0px;
+  right: 10px;
+}
+
+.btn {
+  border-radius: 16px;
+  font-size: 14px;
+  padding: 10px 17px;
+}
+.btn:active {
+  filter: brightness(0.99);
+}
+
+.btn-primary {
+  background-color: var(--tg-theme-button-color, #50a8eb);
+  color: var(--tg-theme-button-text-color, #fff);
+  border: none;
+}
+.btn-primary:hover,
+.btn-primary.active:hover,
+.btn-primary:active:hover {
+  background-color: var(--tg-theme-button-color, #50a8eb);
+  color: var(--tg-theme-button-text-color, #fff);
+}
+.btn-primary:active,
+.btn-primary.active,
+.btn-primary.active.focus,
+.btn-primary.active:focus,
+.btn-primary:active.focus,
+.btn-primary:active:focus {
+  background-color: var(--tg-theme-button-color, #50a8eb);
+  filter: brightness(0.8);
+}
+.btn-primary:disabled {
+  background-color: var(--tg-theme-button-color, #50a8eb);
+  filter: brightness(0.8);
+}
+
+.loading-page {
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.loading-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5); /* 50% opacity black background */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 999; /* Adjust z-index as needed to ensure it overlays other content */
+}
+
+.loading-content {
+  padding: 10px;
+  text-align: center;
+}
+
+@import "bootstrap/dist/css/bootstrap.css";

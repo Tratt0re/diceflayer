@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>d8-test</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-168.000000, -102.000000)">
+            <g id="d8-test" transform="translate(168.000000, 102.000000)">
+                <rect id="Rectangle" fill-opacity="0" fill="#FFFFFF" x="0" y="0" width="20" height="20"></rect>
+                <g id="d10-test" transform="translate(2.388889, 4.166667)">
+                    <polygon id="Path" fill="#9A70FF" fill-rule="nonzero" points="1.8775 9.32055556 7.58861111 0.0102777778 13.3638889 9.35287037"></polygon>
+                    <polygon id="Path" fill="#9A70FF" fill-rule="nonzero" points="7.62074074 0.0102777778 0.0234259259 6.05046296 1.8775 9.35287037 7.40953704 13.3230556 13.3638889 9.35287037 14.5933333 6.15611111"></polygon>
+                    <polygon id="Path" fill="#9A70FF" fill-rule="nonzero" points="1.8775 9.32055556 7.58861111 0.0102777778 13.3638889 9.35287037"></polygon>
+                    <polygon id="Path" fill="#9A70FF" fill-rule="nonzero" points="7.62074074 0.0102777778 0.0234259259 6.05046296 1.8775 9.35287037 7.40953704 13.3230556 13.3638889 9.35287037 14.5933333 6.15611111"></polygon>
+                    <polygon id="Path" fill="#4D0BE8" fill-rule="nonzero" points="7.71222222 0.055462963 14.6062037 6.21907407 13.4333333 9.26074074"></polygon>
+                    <polygon id="Path" fill="#4D0BE8" fill-rule="nonzero" points="13.104537 9.42407407 11.1592593 9.36101852 7.43111111 13.2661111"></polygon>
+                    <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="7.61509259 0.0750925926 0.0923148148 5.98592593 1.8775 9.35287037 7.5037037 13.2708333 7.71222222 13.1550926 1.8775 9.26074074 0.561203704 6.15083333 7.14648148 0.833055556"></polygon>
+                    <polygon id="Path" fill="#FFFFFF" fill-rule="nonzero" points="7.66759259 0.0643518519 2.06601852 9.19388889 13.1810185 9.36101852 2.69861111 8.79916667"></polygon>
+                    <path d="M1.8775,9.32055556 L7.58861111,0.0102777778 L13.3638889,9.35287037 L1.8775,9.32055556 Z M7.62074074,0.0102777778 L0.0234259259,6.05046296 L1.8775,9.35287037 L7.40953704,13.3230556 L13.3638889,9.35287037 L14.5933333,6.15611111 L7.62074074,0.0102777778 Z M1.8775,9.32055556 L7.58861111,0.0102777778 L13.3638889,9.35287037 L1.8775,9.32055556 Z M7.62074074,0.0102777778 L0.0234259259,6.05046296 L1.8775,9.35287037 L7.40953704,13.3230556 L13.3638889,9.35287037 L14.5933333,6.15611111 L7.62074074,0.0102777778 Z" id="Shape" stroke="#000002" stroke-width="0.5" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
